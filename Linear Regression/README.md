@@ -1,4 +1,4 @@
-# Linar Regression
+# Linear Regression
 Linear regression analysis is used to predict the value of a variable based on the value of another variable. The variable you want to predict is called the dependent variable. The variable you are using to predict the other variable's value is called the independent variable.
 Basically, linear regression is a regression model used to predict the relationships between dependent output variables (Y) and independent input variables (X) in a linear fashion.
 ### Importance of Linear Regression
